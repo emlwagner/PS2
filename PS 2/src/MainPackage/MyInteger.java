@@ -140,10 +140,6 @@ public class MyInteger {
 		return str_to_int;
 	}
 	
-	public static void main(String[] args) {
-		MyInteger number = new MyInteger(9);
-		System.out.println(equals(number));
-	}
 
 }
 
